@@ -1,0 +1,7 @@
+{
+  "name": "casa-en-calma-v4",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^10.4.0"
+  }
+}
